@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 print("###" + " CREATE DAY ".center(20, " ") + "###")
 print("┌" + "—" * 69 + "┐")
@@ -13,8 +14,6 @@ py_filename = "Day" + str(day)
 
 txt_ex = True
 py_ex = True
-
-from pathlib import Path
 
 file_root = Path(__file__).parents[1]
 print(file_root)
