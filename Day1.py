@@ -1,16 +1,20 @@
 import Default.adventofcode as aof
 
 # IMPORT DATA
-# data = aof.getDayData_int(day)
-# data = aof.getDayData_str(day)
-# print("Data:", data)
+# data = aof.getDayData_int(1)
+data = aof.getDayData_str(1)
+print("Data:", data)
 
 # PART ONE
 
 
-# aof.answer(ans, day, part)
+ans = 0
+
+aof.answer(ans, 1, 1)
 
 # PART TWO
 
 
-# aof.answer(ans, day, part)
+ans = 0
+
+aof.answer(ans, 1, 2)

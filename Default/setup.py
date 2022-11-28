@@ -31,6 +31,8 @@ if not os.path.exists(file_root / (py_filename + ".py")):
     src_f = open(Path(__file__).parents[0] / "defaultpy.txt", 'r')
 
     for line in src_f:
+        if "{day}" in line:
+            line = line.replace("{day}", str(day))
         des_f.write(line)
 
     src_f.close()
