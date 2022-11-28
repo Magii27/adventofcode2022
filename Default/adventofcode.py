@@ -1,15 +1,15 @@
-def getDayData_int(day):
+def getDayData_int(day, splitter):
     with open("DayData\\Day" + str(day) + "Data.txt", 'r') as f:
-        data = f.read().split("\n")
+        data = f.read().split(splitter)
         f.close()
 
     data = list(map(int, data))
     return data
 
 
-def getDayData_str(day):
+def getDayData_str(day, splitter):
     with open("DayData\\Day" + str(day) + "Data.txt", 'r') as f:
-        data = f.read().split("\n")
+        data = f.read().split(splitter)
         f.close()
 
     return data

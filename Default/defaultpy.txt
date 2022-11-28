@@ -1,8 +1,11 @@
 import Default.adventofcode as aof
 
 # IMPORT DATA
-# data = aof.getDayData_int(1)
-data = aof.getDayData_str(1)
+splitter = "\n"
+
+# data = aof.getDayData_int({day}, splitter)
+data = aof.getDayData_str({day}, splitter)
+
 print("Data:", data)
 
 # PART ONE
@@ -10,11 +13,11 @@ print("Data:", data)
 
 ans = 0
 
-aof.answer(ans, 1, 1)
+aof.answer(ans, {day}, 1)
 
 # PART TWO
 
 
 ans = 0
 
-aof.answer(ans, 1, 2)
+aof.answer(ans, {day}, 2)
