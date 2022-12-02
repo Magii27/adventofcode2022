@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2dd6d12c-24e7-42bd-8ced-90c9992025aa" name="Changes" comment="day 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DayData/Day1Data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DayData/Day1Data.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
       <recent name="C:\Users\q506869\OneDrive - BMW Group\Dokumente\07_Programmieren\Python\adventofcode2022\Default" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day1">
+  <component name="RunManager" selected="Python.Day2">
     <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +57,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="adventofcode2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,8 +151,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day1" />
+        <item itemvalue="Python.Day2" />
         <item itemvalue="Python.setup (1)" />
+        <item itemvalue="Python.Day1" />
         <item itemvalue="Python.setup" />
         <item itemvalue="Python.adventofcode" />
       </list>
@@ -204,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669637281401</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day 1">
+      <created>1669874605342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669874605342</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
