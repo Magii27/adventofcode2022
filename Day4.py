@@ -9,7 +9,7 @@ data = aof.getDayData_str(4, splitter)
 print("Data:", data)
 
 # PART ONE
-erg = 0
+erg = 0 # test
 
 for i_elf in range(len(data)):
     elf = data[i_elf].split(",")
