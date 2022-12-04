@@ -36,7 +36,7 @@
       <recent name="C:\Users\q506869\OneDrive - BMW Group\Dokumente\07_Programmieren\Python\adventofcode2022\Default" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day2">
+  <component name="RunManager" selected="Python.Day4">
     <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adventofcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\q506869\OneDrive - BMW Group\Dokumente\07_Programmieren\Python\adventofcode2022\Default\adventofcode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day4" />
         <item itemvalue="Python.Day2" />
         <item itemvalue="Python.setup (1)" />
         <item itemvalue="Python.Day1" />
         <item itemvalue="Python.setup" />
-        <item itemvalue="Python.adventofcode" />
       </list>
     </recent_temporary>
   </component>
