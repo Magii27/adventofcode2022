@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dd6d12c-24e7-42bd-8ced-90c9992025aa" name="Changes" comment="day 1">
-      <change beforePath="$PROJECT_DIR$/Default/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/q506869/OneDrive - BMW Group/Dokumente/07_Programmieren/Python/adventofcode2022&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\q506869\OneDrive - BMW Group\Dokumente\07_Programmieren\Python\adventofcode2022\Default" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day4">
+  <component name="RunManager" selected="Python.Day5">
     <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,9 +151,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day4" />
-        <item itemvalue="Python.Day2" />
+        <item itemvalue="Python.Day5" />
         <item itemvalue="Python.setup (1)" />
+        <item itemvalue="Python.Day2" />
         <item itemvalue="Python.Day1" />
         <item itemvalue="Python.setup" />
       </list>
